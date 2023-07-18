@@ -17,7 +17,7 @@ class HotelController extends Controller
         $totalDays = $interval->days;
         return $totalDays;
     }
-
+    //Endpoint(POST): 127.0.0.1:8000/api/hotel/search
     public function searchHotel(Request $request) {
         //Tomamos los datos del request
         $destination = $request->input('destination');
