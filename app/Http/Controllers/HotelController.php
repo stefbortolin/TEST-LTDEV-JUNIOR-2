@@ -27,7 +27,7 @@ class HotelController extends Controller
         $qtyPax = $request->input('qtyPax');
         $lang = $request->input('lang');
         $others = $request->input('others');
-
+        
         //To authenticate, you must send both the API Key and the X-Signature, 
         //a SHA256 hash in Hex format calculated from your API key, your secret plus current timestamps in seconds:
 
@@ -65,8 +65,8 @@ class HotelController extends Controller
             'occupancies' => [
                 [
                     'rooms' => $qtyProduct,
-                    'adults' => $qtyPax,
-                    'children' => 0,
+                    'adults' => $others['hotels']['roomConfiguration'][0]['adults'],
+                    'children' => count($others['hotels']['roomConfiguration'][0]['children']),
                 ]
             ],
             'hotels' => [
