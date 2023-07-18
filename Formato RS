@@ -1,0 +1,124 @@
+ {
+	"id": "57934",
+	"hotel_name": "Regente Palace",
+	"title": "Regente Palace",
+	"description": "El Regente Palace Hotel, cuenta con una ubicación privilegiada de cara a los viajeros interesados en la actividad cultural, financiera y comercial de la ciudad de Buenos Aires. Situado en el centro de la ciudad, este hotel se encuentra a poca distancia de Plaza Libertad, Teatro Nacional Cervantes y Centro Naval. El hotel dispone de restaurante, cafetería y bar o salón de tipo lounge. Se ofrece un desayuno gratuito. El acceso wifi a Internet en las zonas comunes es gratuito. Cuenta con un centro de negocios, que está abierto las 24 horas y una sala de reuniones. Las 139 habitaciones con aire acondicionado de Regente Palace Hotel incluyen caja de seguridad (con espacio para laptop) y minibar. Las camas cuentan con cubrecama y ropa de cama de alta calidad. Se ofrece acceso a Internet wifi de alta velocidad (de pago). Se ofrece televisión por cable.",
+	"categoryId": 1,
+	"productId": "57934",
+	"view_hotel": 0,
+	"destination": "BUE",
+	"dateIni": "2023-08-01",
+	"dateEnd": "2023-08-10",
+	"totaldays": 9,
+	"logo": "https://octopus-apis.com/img/std_logos/hotel_sin_logo.jpg",
+	"logo_hotel": "https://octopus-apis.com/img/std_logos/hotel_sin_logo.jpg",
+	"coordinates": {
+		"longitude": -58.379996,
+		"latitude": -34.596832
+	},
+	"mapsdescript": "",
+	"zonename": "Suipacha 964",
+	"additionalInfo": {
+		"location": "Suipacha 964",
+		"city": "BUENOS AIRES",
+		"country": "AR",
+		"zipcode": "1008",
+		"numberOfFloors": "0",
+		"numberOfrooms": 0,
+		"constructionYear": "0",
+		"accommodationTypeCode": "HOTEL",
+		"numberOfRestaurants": 0,
+		"acceptChildren": "SI",
+		"acceptPets": "NO",
+		"cover_image": "http://photos.hotelbeds.com/giata/original/05/057934/057934a_hb_r_001.jpg",
+		"suitableForSmoker": "NO",
+		"starRating": "4",
+		"reserveMultiHab": true,
+		"TimeInformation": {
+			"CheckIn": "00:00",
+			"CheckOut": "00:00"
+		},
+		"images": [
+			{
+				"type": "RES",
+				"description": ".",
+				"image": "http://photos.hotelbeds.com/giata/original/05/057934/057934a_hb_r_001.jpg",
+				"thumbnail": "http://photos.hotelbeds.com/giata/original/05/057934/057934a_hb_r_001.jpg"
+			},
+			{
+				"type": "BAR",
+				"description": ".",
+				"image": "http://photos.hotelbeds.com/giata/original/05/057934/057934a_hb_ba_003.jpg",
+				"thumbnail": "http://photos.hotelbeds.com/giata/original/05/057934/057934a_hb_ba_003.jpg"
+			},
+			{
+				"type": "COM",
+				"description": ".",
+				"image": "http://photos.hotelbeds.com/giata/original/05/057934/057934a_hb_l_008.jpg",
+				"thumbnail": "http://photos.hotelbeds.com/giata/original/05/057934/057934a_hb_l_008.jpg"
+			}
+		],
+		"roomsQty": 6,
+		"rooms": [
+			{
+				"providerLogo": "https://octopus-apis.com/img/std_logos/hotelbeds.jpg",
+				"hotelCode": 57934,
+				"description": "El confort de las habitaciones se encuentra marcado por la categoria y exclusividad de la Double standard room  cuenta excelentes detalles y todas las comodidades requeridas.",
+				"roomType": "Double standard room",
+				"roomId": "HB00DBL.ST-NR",
+				"roomCode": "HB00DBL.ST-NR",
+				"bookParam": "20230801|20230810|W|249|57934|DBL.ST|BAR NRF|BB||1~1~0||P@06~~208342~686750190~N~~~NRF~7D7049168B044D6168927532373900AAUK000015400000000012272cd",
+				"rooms": 1,
+				"maxPax": 1,
+				"alloutment": 3,
+				"rateKey": "20230801|20230810|W|249|57934|DBL.ST|BAR NRF|BB||1~1~0||P@06~~208342~686750190~N~~~NRF~7D7049168B044D6168927532373900AAUK000015400000000012272cd",
+				"rateClass": "NR",
+				"rateType": "BOOKABLE",
+				"optionNightsNetTotal": 5739.12,
+				"netPrice": "717.39",
+				"boardName": "BED AND BREAKFAST",
+				"optionNightsTotal": 5739.12,
+				"roomamenities": [],
+				"images": [],
+				"cancellation_policy": [
+					{
+						"descript_polecy": "HOTELBEDS: Las politicas de Cancelacion estan sujetas al proveedor del servicio",
+						"amount": "717.39",
+						"from": "2023-07-12T23:59:00-03:00",
+						"PaymentLimitDay": null
+					}
+				]
+			},
+			{
+				"providerLogo": "https://octopus-apis.com/img/std_logos/hotelbeds.jpg",
+				"hotelCode": 57934,
+				"description": "El confort de las habitaciones se encuentra marcado por la categoria y exclusividad de la Double standard room  cuenta excelentes detalles y todas las comodidades requeridas.",
+				"roomType": "Double standard room",
+				"roomId": "HB00DBL.ST-NR",
+				"roomCode": "HB00DBL.ST-NR",
+				"bookParam": "20230801|20230810|W|249|57934|DBL.ST|BAR NRF|BB||1~1~0||N@06~~2283c2~1834219120~N~~~NRF~7D7049168B044D6168927532373900AAUK0000154000000000125233b",
+				"rooms": 1,
+				"maxPax": 1,
+				"alloutment": 3,
+				"rateKey": "20230801|20230810|W|249|57934|DBL.ST|BAR NRF|BB||1~1~0||N@06~~2283c2~1834219120~N~~~NRF~7D7049168B044D6168927532373900AAUK0000154000000000125233b",
+				"rateClass": "NR",
+				"rateType": "BOOKABLE",
+				"optionNightsNetTotal": 6622.56,
+				"netPrice": "827.82",
+				"boardName": "BED AND BREAKFAST",
+				"optionCommissionValue": null,
+				"optionNightsTotal": 6622.56,
+				"roomamenities": [],
+				"images": [],
+				"cancellation_policy": [
+					{
+						"descript_polecy": "HOTELBEDS: Las politicas de Cancelacion estan sujetas al proveedor del servicio",
+						"amount": "827.82",
+						"from": "2023-07-12T23:59:00-03:00",
+						"PaymentLimitDay": null
+					}
+				]
+			}
+		]
+	}
+}
